@@ -93,7 +93,7 @@ This publication is based upon work supported by the Khalifa University of Scien
 
 ## Bibtex
 ```
-@article{mohsan2025swishformer,
+@article{Add_Paper_Tag,
       title={Add Paper Title},
       author={Author 1, Author 2, and Hussain, Irfan},
       journal={State Journal Name},
